@@ -15,6 +15,10 @@ Many people struggle to make confident investment decisions because they lack fi
 - Built the dashboard in flexible pieces so it’s easy to update or reuse
 - Focused on making insights simple, visual, and user-friendly
 
+## Sample Final Dashboard
+
+<img width="1329" height="748" alt="Image" src="https://github.com/user-attachments/assets/396f9c4a-6712-4b77-a73b-a85ef271e29d" />
+
 ## Results
 - Most people preferred Government Bonds
 - The top reason for investing was Capital Appreciation
@@ -22,6 +26,7 @@ Many people struggle to make confident investment decisions because they lack fi
 - Most individuals monitored their investments monthly
 - Investment durations mostly fell between 3–5 years
 - There was a strong negative correlation between age and investment choice
+
 ## Files Included
 - Cognifyz PowerBI intern.pbix – PowerbI dashboard 
 - Final dashboard.png – visual previews of the dashboard
